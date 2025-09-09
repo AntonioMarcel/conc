@@ -57,7 +57,7 @@
 Acrescentar seção sobre parágrafos relacionados aos tetos. 
 
 # Fixação e alteração 
-- Remuneração e subsídios dos servidores fixados/alterados por lei específica.
+- Remuneração e subsídios (art. 39, p. 4o) dos servidores fixados/alterados **apenas por lei específica**.
 - Observar a iniciativa privativa em cada caso: a lei referida só pode ser proposta pela autoridade do Poder ou órgão competente.
 - Garantida revisão geral anual. 
 - Art. 37, X.
