@@ -5,3 +5,4 @@
 - 1h10m prog v 
 ### 09-09
 2h5m conc v
+40m prog v
