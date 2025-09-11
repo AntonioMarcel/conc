@@ -9,3 +9,6 @@
 +20m prog v 
 ### 10-09
 2h15m conc v
+### 11-09
+2h conc
+
