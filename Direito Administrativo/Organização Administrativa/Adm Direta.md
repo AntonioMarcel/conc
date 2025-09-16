@@ -10,7 +10,7 @@
 - apenas expressam a vontade da entidade a que pertencem por meio de seus agentes.  
 - não possuem personalidade jurídica; quem tem personalidade é o **ente federativo** (União, Estado, DF ou Município).  
 - **Exemplos** 
-    - Tribunais de Contas (órgão da Adm Direta do Poder Legislativo: auxiliam no controle externo, s/ subordinação hierárquica: atos de natureza administrativa, não legislativa).
+    - Tribunais de Contas (órgão da Adm Direta do Poder Legislativo: auxiliam no controle externo, s/ subordinação hierárquica. Atos de natureza administrativa, não legislativa).
     - Tribunais de Justiça (órgãos independentes, representativos do Poder Judiciário).
 
 >> **Capacidade processual dos órgãos**
@@ -22,14 +22,17 @@
 **Independentes**
 - Representam diretamente os Poderes do Estado.  
 - Não têm subordinação hierárquica.  
-- **Ex.:** Presidência da República, STF, Congresso Nacional.  
+- **Ex.:** Presidência da República, STF (TJs nos respectivos entes federados), Congresso Nacional.  
+    > PL: Corporações Legislativas (Congresso Nacional, Câmara dos Deputados, Senado Federal, Assembleias Legislativas, Câmaras de Vereadores).
+    > PE: Chefias de Executivo (Presidência da República, Governadorias dos Estados e do Distrito Federal, Prefeituras Municipais).
+    > PJ: Tribunais Judiciários e os Juízos singulares (Supremo Tribunal Federal, Tribunais Superiores Federais, Tribunais Regionais Federais, Tribunais de Justiça e de Alçada dos Estados-membros, Tribunais do Júri e Varas das Justiças Comum e Especial).
 **Autônomos**
 - Subordinados apenas aos independentes.  
 - Autonomia administrativa, financeira e técnica.  
-- **Ex.:** Ministérios, Secretarias Estaduais/Municipais.  
+- **Ex.:** Ministérios, Secretarias Estaduais/Municipais, Ministério Público.
 **Superiores**
 - Com poder de direção e decisão, mas sem autonomia financeira.  
-- **Ex.:** Departamentos, Gabinetes, Secretaria da Receita Federal.  
+- **Ex.:** Departamentos, Coordenadorias, Gabinetes, Secretaria da Receita Federal.  
 **Subalternos**
 - Função meramente executória, cumprem ordens.  
 - **Ex.:** Seções de RH, serviços de protocolo.  

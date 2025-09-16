@@ -3,6 +3,7 @@
 ## 1. Concepção Sociológica
 - **Autor:** Ferdinand Lassalle  
 - **Ideia central:** A Constituição é a **soma dos fatores reais de poder** que regem a sociedade (burguesia, militares, aristocracia etc.).  
+  - Ou seja, trata-se das forças que comandam os interesses que preponderam e que se materializam em um documento real e efetivo, qual seja, a Constituição.   
 - **Expressão-chave:** Constituição sem respaldo nesses fatores = **“folha de papel”**.  
 - **Visão:** Descritiva.
 
@@ -11,18 +12,18 @@
 - **Ideia central:** A Constituição possui **força normativa própria**, desde que haja a **vontade da Constituição** (compromisso de cumprir a ordem nela prevista, tanto pela consciência geral da sociedade, quanto pelos responsáveis pela ordem constitucional).
 - **Força normativa própria**: contraponto com a Teoria de Lassalle, num sentido em que a Constituição jurídica escrita possui uma força própria, ou seja, uma pretensão de eficácia e um poder de normatividade que deve se impor. 
 - **Eficácia e adaptação**: capacidade da Constituição de ter uma efetividade real e vinculante, não se limitando a ser um documento meramente teórico ou um reflexo passivo das relações de poder. Significa que a Constituição deve ser capaz de influenciar e moldar a realidade social e o poder estatal, devendo ser aplicada e interpretada para que se realize na prática. 
-- **Expressão-chave:** Constituição não é a parte mais fraca.  
+- **Expressão-chave:** Constituição não é a parte mais fraca da relação.
 - **Visão:** Propositiva (a Constituição deve influenciar a realidade).  
 
 ## 3. Concepção Política
 - **Autor:** Carl Schmitt  
-- **Ideia central:** A Constituição é uma **decisão política fundamental**, materializada pelo poder constituinte.  
+- **Ideia central:** A Constituição é uma **decisão política fundamental**, materializada pelo titular do Poder Constituinte.  
 - **Decisão política fundamental**: direitos e garantias fundamentais da pessoa humana, à organização do Estado, à competência, exercício e separação dos Poderes.
 - Tudo que não for **decisão política fundamental** e estiver presente na constituição é mera **lei constitucional**. 
 - Em outras palavras, ele conceitua Constituição em dois sentidos:
   - **Sentido material:** normas sobre organização do Estado e direitos fundamentais.  
   - **Sentido formal:** todo o texto constitucional, independentemente do conteúdo (**lei constitucional**).  
-- **Exemplo:** CF/88 é uma **Constituição formal** (todo o texto tem força constitucional).  
+- **Exemplo:** CF/88 é uma **Constituição formal** (todo o texto tem força constitucional, independente da natureza da norma).  
 
 ## 4. Concepção Jurídica (Normativista ou Pura)
 - **Autor:** Hans Kelsen  
@@ -31,18 +32,18 @@
 - **Duas acepções:**
   - **Sentido lógico-jurídico:** norma hipotética fundamental (não escrita, mas pressuposta). Seria o fundamento de validade da Constituição escrita, desvinculada de valores sociológicos, políticos ou filosóficos.
   - **Sentido jurídico-positivo:** Constituição escrita, positiva e suprema.  
-  - As duas acepções se complementam. 
+  - As duas acepções se complementam formando o sentido completo de Constituição preceituado por esta teoria. 
 
 ### Supremacia da Constituição
 - A Constituição Federal de 1988 está hierarquicamente acima das leis ordinárias e dos atos normativos infraconstitucionais, devendo todos os atos e normas do Estado conformarem-se a ela.
 - É o subsídio do controle de constitucionalidade das leis.
-- Decorre da rigidez constitucional.
-- A CF/88 é rígida!!!
+- Para as Const. rígidas (CF/88), o **fundamento** deste princípio é a rigidez constitucional. 
+- Para as Const. flexíveis (inglesas), o **fundamento** é a materialidade das normas constitucionais. 
 
 # Classificação das Constituições
 
 ## 1. Quanto à origem
-- **Promulgadas (democráticas):** votadas ou populares. Feitas por Assembleia Constituinte.  
+- **Promulgadas:** também chamadas de democráticas, votadas ou populares. Feitas por Assembleia Constituinte.  
   *Ex.: CF/1891, 1934, 1946, 1988.*  
 - **Outorgadas:** impostas. 
   *Ex.: 1824, 1937, 1967/69.*  
@@ -52,42 +53,43 @@
   *Ex.: França/1791.*  
 
 ## 2. Quanto à forma
-- **Escritas:** texto único. *Ex.: CF/1988.*  
-- **Não escritas (consuetudinárias):** baseadas em costumes. *Ex.: Inglaterra.*  
+- **Escritas:** também chamada de instrumental. texto único. *Ex.: CF/1988.*  
+- **Não escritas (consuetudinárias):** também chamada de consuetudinária ou costumeira. Baseadas em costumes. *Ex.: Inglaterra.*  
 
 ## 3. Quanto ao sistema
 - **Principiológicas:** predominam princípios. *Ex.: CF/1988.*  
 - **Preceituais:** predominam regras. Por isso, permite uma aplicação mais coercitiva. Ex.: México.
 
 ## 4. Quanto à função
-- **Provisórias:** interinas.  
+- **Provisórias:** temporárias ou interinas.  
 - **Definitivas:** permanentes. *Ex.: CF/1988.*  
 
 ## 5. Quanto à decretação
 - **Autônomas:** elaboradas pelo próprio Estado. *Ex.: CF/1988.*  
 - **Heterônomas:** impostas de fora. *Ex.: Japão/1946 (EUA).*  
 
-## 6. Quanto à ideologia
+## 6. Quanto ao conteúdo ideológico
 - **Liberais:** Estado mínimo. *Ex.: EUA/1787.*  
 - **Sociais:** Estado intervencionista. *Ex.: CF/1988.*  
 
 ## 7. Quanto ao modo de elaboração
 - **Dogmáticas:** feitas em certo momento histórico a partir de valores e dogmas daquela ocasião. *Ex.: CF/1988.*  
+    ### 7.1 Quanto à ideologia
     - **Ortodoxa** = uma ideologia → autoritária.  
     - **Heterodoxa** = compromissória, eclética, pragmática ou utilitária. Várias ideologias → democrática (CF/88).
 - **Históricas:** fruto de lenta evolução. São as não escritas (o que não quer dizer sem texto), formadas gradativamente ao longo do tempo, de forma esparsa. *Ex.: Inglaterra.*  
 
-## 8. Quanto à estabilidade/mutabilidade
+## 8. Quanto à estabilidade/mutabilidade/alterabilidade
 - **Imutáveis:** não se alteram.  
 - **Rígidas:** processo especial de emenda (art. 60, CF/88). *Ex.: CF/1988.*  
 - **Super-rígidas:** rigidez + cláusulas pétreas. *Ex.: CF/1988.* 
-- **Flexíveis:** alteradas como lei comum. *Ex.: Inglaterra.*  
+- **Flexíveis:** também chamadas de plásticas. Alteradas como lei comum. *Ex.: Inglaterra.*  
 - **Semirrígidas:** parte rígida, parte flexível. *Ex.: 1824.*  
 - **Fixas**: somente o Poder Constituinte Originário pode alterar o texto constitucional.
 
 ## 9. Quanto ao conteúdo
 - **Material ou substancial:** trata só de matérias tipicamente constitucionais.  
-- **Formal:** trata de diversos temas e qualquer tema no texto é constitucional. *Ex.: CF/1988.*  
+- **Formal:** quando é incluída no texto da Constituição diversos temas, independente de serem tipicamente constitucionais ou não. *Ex.: CF/1988.*  
 
 > **Atenção!!!**
 > - Sempre que incluída no texto da Constituição escrita, essa regra será considerada FORMALMENTE constitucional.
@@ -110,10 +112,11 @@
 - **Garantia:** sintéticas. Limitam o poder do Estado (liberais).  
 - **Orgânica:** também chamada de codificada ou reduzida. É aquela que é totalmente escrita em apenas um único documento. Organizam os poderes do Estado.
 - **Fixa:** valor histórico, não alterável.  
-- **Dirigente/programática:** traçam programas sociais. Estabelecem normas programáticas e dirigem a atuação do legislador para concretizar esses programas e objetivos. *Ex.: CF/1988.*  
+- **Dirigente:** também chamada de programática. Traçam programas sociais. Estabelecem normas programáticas e dirigem a atuação do legislador para concretizar esses programas e objetivos. *Ex.: CF/1988.*  
 > **Normas constitucionais programáticas**
-> - As normas constitucionais programáticas são aquelas de **eficácia limitada** que requerem dos órgãos estatais uma determinada atuação, na consecução de um objetivo traçado pelo legislador constituinte. Como a própria denominação indica, estabelecem um programa, um rumo inicialmente traçado pela Constituição - e que deve ser perseguido pelos órgãos estatais (exemplos: arts. 23, 205, 211, 215 e 218 da Constituição).
+> - As normas constitucionais programáticas são aquelas de **eficácia limitada** que requerem dos órgãos estatais uma determinada atuação, na consecução de um objetivo traçado pelo legislador constituinte. Como a própria denominação indica, estabelecem um programa, um rumo inicialmente traçado pela Constituição - e que deve ser perseguido pelos órgãos estatais.
 - **Balanço:** feitas para tempo certo. *Ex.: soviéticas.*  
+  - Se inspira em Lassale, na concepção sociológica.
 
 ## 14. Classificações modernas
 - **Ubíqua:** tudo vira constitucional (Daniel Sarmento).  
@@ -138,3 +141,5 @@ PEDRA FORMAL: P: Promulgada, E: Escrita, D: Dogmática, R: Rígida, A: Analític
 - **Sistemática:** Codificada  
 - **Ontológica:** Normativa  
 - **Finalidade:** Dirigente  
+
+

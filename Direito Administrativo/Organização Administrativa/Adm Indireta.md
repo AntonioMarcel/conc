@@ -8,6 +8,7 @@
 
 **Características:**
 - Resultado da **descentralização administrativa** (transferência de atribuições a outra pessoa jurídica).  
+- Modalidade de descentralização: **por serviços ou funcional**.
 - Possuem personalidade jurídica, patrimônio e capacidade de autoadministração.  
 - Apesar da autonomia, estão sujeitas ao **controle finalístico/tutela administrativa** da entidade política que as criou.  
 
@@ -46,4 +47,16 @@
 - **Finalidade:** Exploração de atividade econômica ou prestação de serviços públicos.  
 - **Exemplos:** Banco do Brasil, Petrobrás.  
 
+## Concessionárias e permissionárias de serviço público
+- Descentralização **por colaboração (ou delegação)**.
+- Também não integram a Adm. Direta nem a Indireta: são PJs de direito privado (sociedades empresárias) que firmam um contrato de concessão com o Poder Público.
+- Atuam c/ fins lucrativos.
+- PP mantém a titularidade, delega apenas a execução. 
+
+## Entidades paraestatais
+- Não constituem modalidade de descentralização.
+- Não fazem parte da Administração Direta nem da Indireta, mas atuam em cooperação com o Estado.
+- Desempenham funções de interesse público ao lado do Estado, s/ fins lucrativos.
+- Pessoas jurídicas de direito privado.
+- Serviços Sociais Autônomos, Organizações Sociais (OSs), Organizações da Sociedade Civil de Interesse Público (OSCIPs), Entidades de Apoio / Fundações de Apoio.
 
