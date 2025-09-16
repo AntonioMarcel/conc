@@ -1,7 +1,9 @@
 # Teoria Científica
 
 ## Principais expoentes
-- Frederick Winslow Taylor, Henry Ford, Henry Lawrence Gantt, Frank Bunker Gilbreth, Harrington Emerson.
+- Frederick Winslow Taylor, Henry Ford, Henry Lawrence Gantt, Frank Bunker Gilbreth, Harrington Emerson, Toyota.
+- Fordismo: produção em massa, padronização, grandes estoques, trabalhador especializado e repetitivo.
+- Toyotismo: produção enxuta, flexibilidade, estoques mínimos (just in time), terceirização (fornecedores de outras etapas da produção), trabalhador polivalente e envolvido (estrutura participativa do trabalhador).
 
 ## Contextualização
 - Problema: Insatisfação dos trabalhadores → baixa remuneração → baixa produtividade.
@@ -24,6 +26,7 @@ São alguns **princípios da ORT**:
     - **Divisão quase igual de trabalho** (Chiavenato, 2021): mesmo nível de responsabilidade para administração e para o trabalhador.
     - Resultado da divisão do trabalho: **especialização**.
 - **Seleção e treinamento**:
+    - Seleção do melhor trabalhador para execução de cada tarefa específica, de acordo com critérios científicos.
     - Treinamento e capacitação. 
     - Defendia treinamento para execução padronizada, mas não participação, autonomia ou criatividade individuais.
 - **Estudo de tempos e movimentos**: 
@@ -31,6 +34,9 @@ São alguns **princípios da ORT**:
     - Princípios: análise detalhada (divisão das tarefas em pequenos movimentos), padronização, layout eficiente, treinamento, equilíbrio do ritmo (evitar fadiga e ociosidade) e fluxo estável de materiais (evitar paradas e interrupções).
     - Ex. Evacução por gravidade.
 - **Homo economicus**: “homem econômico”, ou seja, o principal (ou único) fator de motivação do trabalhador eram incentivos salariais. Ele desconsiderava aspectos sociais e psicológicos.
+    - Remuneração de acordo com produção.
+    - Exemplo: "A escola de Adm. Científica contemplou algumas ações típicas de administração de recursos humanos, como o desenho de cargos, os incentivos salariais e os prêmios por produção." **Correta**.
+
 >> **Atenção** 
 >> - Algumas bancas realizam uma interpretação um pouco mais conservadora: Taylor de fato enfatizou o salário como principal motivador, mas não chegou a dizer que era o único fator.
 - **Resistência dos trabalhadores**: viam a padronização e o controle rígido como algo que reduzia sua autonomia.
