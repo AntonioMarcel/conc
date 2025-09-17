@@ -16,7 +16,13 @@
 >> **Capacidade processual dos órgãos**
 >> - Órgãos não possuem personalidade jurídica, mas alguns órgãos independentes e autônomos podem ter capacidade processual (personalidade judiciária): Câmaras e Mesas Diretoras Legislativas entes, MP e Tribunais (STF, STJ, TJs, etc).
 
-### Classificação dos órgãos
+### Criação / extinção
+- Dependem de lei (art. 48, XI).
+- Iniciativa da Lei é privativa do Chefe do Executivo mediante lei em sentido formal (art. 61, p. 1o, II, e).
+- Não confundir com competência do Chefe do Executivo em dispor mediante decreto sobre organização e funcionamento da adm. pública, quando não implicar aumento de despesa. Também não cabe ao Chefe do Executivo dispor mediante decreto sobre criação/extinção de órgãos públicos (art. 84, VI, a).
+- Simetria dos dispositivos para Chefias do Executivo Estadual e Municipal.
+
+### Classificação
 
 #### 1. Quanto à posição estatal ou hierárquica
 **Independentes**

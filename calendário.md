@@ -25,3 +25,6 @@ n estudei
 2h5m conc
 ### 16-09
 3h5m conc
+### 17-09
+2h prog
+1h conc
