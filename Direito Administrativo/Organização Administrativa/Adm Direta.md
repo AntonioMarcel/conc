@@ -8,18 +8,28 @@
 - não possuem patrimônio próprio,  
 - não têm vontade própria,  
 - apenas expressam a vontade da entidade a que pertencem por meio de seus agentes.  
-- não possuem personalidade jurídica; quem tem personalidade é o **ente federativo** (União, Estado, DF ou Município).  
+- não possuem personalidade jurídica; quem tem personalidade é o **ente federativo** (União, Estado, DF ou Município) que os criou.  
+- autonomia >>> apenas Ministérios (Secretarias Estaduais e Municipais por simetria) -> administrativa, técnica e financeira. 
 - **Exemplos** 
     - Tribunais de Contas (órgão da Adm Direta do Poder Legislativo: auxiliam no controle externo, s/ subordinação hierárquica. Atos de natureza administrativa, não legislativa).
     - Tribunais de Justiça (órgãos independentes, representativos do Poder Judiciário).
 
+>> **Órgãos não estão presentes apenas na Adm. Direta** 
+>> - A Adm. Indireta também possui órgãos em sua estrutura (uma entidade criada por descentralização e em seguida realiza a desconcentração).
+
 >> **Capacidade processual dos órgãos**
 >> - Órgãos não possuem personalidade jurídica, mas alguns órgãos independentes e autônomos podem ter capacidade processual (personalidade judiciária): Câmaras e Mesas Diretoras Legislativas entes, MP e Tribunais (STF, STJ, TJs, etc).
 
+>> **Teoria do órgão**
+>> - Fundamento da falta de PJ dos órgãos.
+>> - De acordo com a teoria do órgão o Estado (pessoa jurídica) manifesta suas vontades por meio dos órgãos que integram a sua estrutura administrativa, logo, todas as manifestações de vontade dos órgãos e de seus agentes são consideradas como manifestações de vontade da própria pessoa jurídica da qual fazem parte.
+
 ### Criação / extinção
-- Dependem de lei (art. 48, XI).
-- Iniciativa da Lei é privativa do Chefe do Executivo mediante lei em sentido formal (art. 61, p. 1o, II, e).
-- Não confundir com competência do Chefe do Executivo em dispor mediante decreto sobre organização e funcionamento da adm. pública, quando não implicar aumento de despesa. Também não cabe ao Chefe do Executivo dispor mediante decreto sobre criação/extinção de órgãos públicos (art. 84, VI, a).
+- Dependem de lei em sentido formal (art. 48, XI), de iniciativa privativa do Chefe do Executivo (art. 61, p. 1o, II, e).
+- Não confundir com competências privativas do Chefe do Executivo de dispor mediante decreto (art. 84, VI, a e b):
+    - permitido p/ organização e funcionamento da adm. federal quando não implicar aumento de despesa.   
+    - proibido criação ou extinção de órgãos públicos.
+    - permitido extinção de funções/cargos públicos, quando vagos.
 - Simetria dos dispositivos para Chefias do Executivo Estadual e Municipal.
 
 ### Classificação
@@ -28,14 +38,15 @@
 **Independentes**
 - Representam diretamente os Poderes do Estado.  
 - Não têm subordinação hierárquica.  
-- **Ex.:** Presidência da República, STF (TJs nos respectivos entes federados), Congresso Nacional.  
-    > PL: Corporações Legislativas (Congresso Nacional, Câmara dos Deputados, Senado Federal, Assembleias Legislativas, Câmaras de Vereadores).
-    > PE: Chefias de Executivo (Presidência da República, Governadorias dos Estados e do Distrito Federal, Prefeituras Municipais).
-    > PJ: Tribunais Judiciários e os Juízos singulares (Supremo Tribunal Federal, Tribunais Superiores Federais, Tribunais Regionais Federais, Tribunais de Justiça e de Alçada dos Estados-membros, Tribunais do Júri e Varas das Justiças Comum e Especial).
+- **Ex.:**  
+    > PL: Casas Legislativas (Congresso Nacional, Câmara dos Deputados, Senado Federal, Assembleias Legislativas, Câmaras de Vereadores).
+    > PE: Chefias de Executivo (Presidência da República, Governadorias dos Estados e do Distrito Federal, Prefeituras Municipais) -> Gabinete de Casa Civil.
+    > PJ: Tribunais Judiciários e os Juízos singulares (Supremo Tribunal Federal, Tribunais Superiores Federais, Tribunais Regionais Federais, Tribunais de Justiça e de Alçada dos Estados-membros, Tribunais do Júri e Varas das Justiças Comum e Especial) -> TST, Juízes do Trabalho.
+    > Outros: Ministérios Públicos, Tribunais de Contas, Defensorias Públicas.
 **Autônomos**
 - Subordinados apenas aos independentes.  
 - Autonomia administrativa, financeira e técnica.  
-- **Ex.:** Ministérios, Secretarias Estaduais/Municipais, Ministério Público.
+- **Ex.:** Ministérios, Secretarias Estaduais/Municipais.
 **Superiores**
 - Com poder de direção e decisão, mas sem autonomia financeira.  
 - **Ex.:** Departamentos, Coordenadorias, Gabinetes, Secretaria da Receita Federal.  
@@ -65,7 +76,7 @@
 - **Ex.:** Presidência da República, Ministros de Estado.  
 **Colegiados (ou pluripessoais)**
 - Decidem de forma conjunta, geralmente por deliberação/votação.  
-- **Ex.:** Congresso Nacional, Conselhos de Agências Reguladoras.  
+- **Ex.:** Congresso Nacional, Conselhos de Agências Reguladoras, Tribunais de Contas.
 
 #### 5. Quanto à atividade/função desempenhada
 **Ativos**

@@ -14,7 +14,11 @@ Adm Geral - Fechei Adm Científica (res e cad), agora
 15-09
 Adm Geral Fazendo qs e res de Adm Clássica.
 Dir Const - Res concepções e classificações de constituição e caderno de q
+
 16-09 e 17-09
 Dir Adm - Adm Direta e Indireta Qs e Res (faltar revisar e resumir as qs resolvidas no tablet)
+
+18-09
+Dir Adm - Adm Direta v (res e qs) Adm Indireta 
 
 

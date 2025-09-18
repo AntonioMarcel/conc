@@ -1,10 +1,14 @@
 ## Administração Indireta
 
-**Composição:** entidades dotadas de personalidade jurídica própria, criadas por lei para desempenhar atividades descentralizadas:
+**Composição:** entidades dotadas de personalidade jurídica própria, criadas/autorizadas por lei para desempenhar atividades descentralizadas:
 - Autarquias,  
 - Fundações públicas,  
 - Empresas públicas,  
 - Sociedades de economia mista.  
+
+**Criação/autorização**
+- Cada uma segue uma regra específica, conforme será visto abaixo.
+- CF, Art. 37, XIX.
 
 **Características:**
 - Resultado da **descentralização administrativa** (transferência de atribuições a outra pessoa jurídica).  
@@ -22,7 +26,10 @@
 - **Classificação:** Entidades da Administração Indireta.  
 - **Personalidade jurídica:** De direito público.  
 - **Características:** Criadas por lei específica, com patrimônio próprio e autonomia administrativa.  
-- **Exemplo:** INSS, IBAMA.  
+- **Exemplos:** INSS, IBAMA.  
+
+>> **Princípio da paridade das formas**
+>> - O princípio da paridade das formas assegura que o mesmo rito ou forma solene usada para criar um ato jurídico deve ser usado para modificá-lo ou extingui-lo, reforçando segurança jurídica e coerência formal. Ex. Criação e extinção de autarquia deve ser por meio de lei específica.
 
 ### Fundações Públicas
 - **Classificação:** Entidades da Administração Indireta.  
@@ -30,6 +37,8 @@
   - de **direito público** (fundação autárquica);  
   - de **direito privado** (regidas pelo Código Civil em parte).  
 - **Origem:** São a personificação de um patrimônio destinado a fins públicos.  
+- **Criação:** criadas por lei específica se de direito público; autorizadas por lei específica se de direito privado.
+- **Exemplos:** FUNAI, Funpresp.
 
 ### Empresas Públicas
 - **Classificação:** Entidades da Administração Indireta.  
@@ -46,6 +55,12 @@
 - **Criação:** Autorizadas por **lei específica**, constituídas obrigatoriamente na forma de **sociedade anônima (S.A.)**.  
 - **Finalidade:** Exploração de atividade econômica ou prestação de serviços públicos.  
 - **Exemplos:** Banco do Brasil, Petrobrás.  
+
+## Consórcios públicos
+- Disciplados pela Lei nº 11.107/2005.
+- **Finalidade**: gestão associada de serviços públicos.
+- Podem ter **PJ de direito público** (associação pública), caso em que integram a Adm Indireta dos entes consorciados -> regime jurídico público;
+- Por outro lado, se **PJ de direito privado**, não integra a Adm Indireta, mas permanece vinculado aos entes consorciados -> regime híbrido.
 
 ## Concessionárias e permissionárias de serviço público
 - Descentralização **por colaboração (ou delegação)**.

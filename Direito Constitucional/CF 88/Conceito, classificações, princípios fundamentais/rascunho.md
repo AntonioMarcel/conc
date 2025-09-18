@@ -1,12 +1,25 @@
-A instituição de novas secretarias de estado no âmbito da estrutura da Administração Pública
+Joana, residente e domiciliada em Porto Velho, é titular de um cargo em comissão no âmbito da empresa pública estadual XYZ. Durante uma conversa com colegas de trabalho, Joana defendeu a criação de novas empresas públicas, de forma a ampliar as atividades prestadas pelo Estado de Rondônia.
+
+ 
+Nesse cenário, considerando as disposições da Constituição Federal e o entendimento doutrinário e jurisprudencial dominantes, avalie as afirmativas a seguir e assinale (V) para a verdadeira e (F) para a falsa.
+
+ 
+( ) A empresa pública estadual XYZ, integrante da Administração Indireta, é uma pessoa jurídica de direito público. x 
+
+( ) A empresa pública estadual XYZ é uma manifestação da desconcentração administrativa. x
+
+( ) Somente por lei específica poderá ser autorizada a instituição de empresa pública. v
+
+ 
+As afirmativas são, respectivamente,
 
 A
-somente demanda lei em sentido formal se ensejar aumento de despesa ou criação de cargos.
+V – V – V.
 B
-representa descentralização administrativa, demandando autorização legislativa e edição de decreto regulamentar.
+V – V – F.
 C
-é matéria de organização administrativa e prescinde de lei, dependendo apenas de edição de decreto do Chefe do Executivo.
+F – V – F.
 D
-constitui matéria de reserva de lei em sentido formal, extrapolando a competência do Chefe do Executivo para dispor sobre organização administrativa.
+V – F – V.
 E
-é expressão do princípio da hierarquia, inerente à Administração, podendo ser efetuada por atos infra legais, mediante delegação governamental.
+F – F – V.
