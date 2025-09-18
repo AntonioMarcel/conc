@@ -28,3 +28,5 @@ n estudei
 ### 17-09
 2h prog
 1h conc
+### 18-09
+3h conc

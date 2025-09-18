@@ -20,5 +20,5 @@ Dir Adm - Adm Direta e Indireta Qs e Res (faltar revisar e resumir as qs resolvi
 
 18-09
 Dir Adm - Adm Direta v (res e qs) Adm Indireta 
-
+Contratos (li a matéria e fiz algumas Qs. - faltar fazer res)
 
