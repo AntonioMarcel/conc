@@ -1,13 +1,13 @@
 # Setembro
 ## Semana 2
 ### 08-09
-- 2h15m conc v
-- 1h10m prog v 
+- 2h15m conc
+- 1h10m prog
 ### 09-09
-2h5m conc v
+2h5m conc
 1h prog v
 ### 10-09
-2h15m conc v
+2h15m conc
 ### 11-09
 2h conc
 ### 12-09
@@ -20,13 +20,23 @@ n estudei
 
 ## Semana 3
 ### 15-09
-1h prog
-50m prog
+1h50m prog
 2h5m conc
 ### 16-09
-3h5m conc
+2h55m conc
 ### 17-09
 2h prog
 1h conc
 ### 18-09
-3h conc
+2h50m conc
+### 19-09
+2h conc
+### 20-09
+1h15m conc
+## 21-09
+2h prog
+
+## Semana 4
+### 22-09
+3h prog
+1h conc
