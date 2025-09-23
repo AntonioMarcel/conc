@@ -20,7 +20,7 @@
 - Porém, o orçamento brasileiro possui traços impositivos devido à EC 86/2015 (emendas parlamentares e orçamento impositivo) 
 
 ## Lei geral x especial
-- É lei especial porque trata de matéria específica e passa por um rito legislativo diferenciado. 
+- É lei especial porque trata de **matéria específica** e passa por um **rito legislativo diferenciado**. 
 - Lei geral é aquela que disciplina matéria ampla, genérica, aplicável a várias situações. Exs: Código Civil, Código Penal, Lei de Licitações (Lei nº 14.133/2021).
 
 **Matéria específica**
@@ -39,7 +39,7 @@ Além disso, segue um **rito legislativo diferenciado** (art. 165 da CF):
 
 # Controle de constitucionalidade
 - O orçamento público está sujeito a controle abstrato de constitucionalidade pelo STF.
-- Também está sujeito ao controle concreto. 
+- Também está sujeito ao controle concreto (geral). 
 
 ## Controle abstrato/concentrado x controle concreto/difuso
 **Abstrato**
@@ -64,6 +64,7 @@ Além disso, segue um **rito legislativo diferenciado** (art. 165 da CF):
 ### Nem todas as leis estão sujeitas a controle abstrato
 - Correto: apenas **leis federais, estaduais e municipais** podem ser alvo de **ADI, ADC ou ADPF**.  
 - **Leis internas ou normativas de menor impacto** normalmente **não são questionadas via controle abstrato**.
+
 ### Leis sujeitas a controle abstrato também podem ser controladas concretamente
 - Qualquer lei, incluindo as que podem ser alvo de **ADI/ADC/ADPF**, pode ser **questionada incidentalmente em um processo judicial**.  
 - **Exemplo:** um dispositivo da LOA pode ser discutido em um **mandado de segurança** (controle concreto) ou em uma **ADI** (controle abstrato).

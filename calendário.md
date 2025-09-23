@@ -40,3 +40,6 @@ n estudei
 ### 22-09
 3h prog
 1h conc
+### 23-09
+1h30mg prog
+1h conc
