@@ -34,4 +34,6 @@ Artigo: parei no 4.3 Categorização Conforme Análise de Conteúdo
 Conc: Contratos: terminei res. e parei na q. 3 do caderno.
 23-09
 Conc: AFO (Res. Conceito v, Princípios v e Ciclo orç.: leitura 2️⃣ Discussão e Aprovação (gpt e pdf))
-
+24-09
+Conc: AFO (PDF: Q. (FCC/TRT-5/Analista Judiciário/Área Administrativa) A previsão das receitas que serão destinadas para que)
+Ainda fazer Res
