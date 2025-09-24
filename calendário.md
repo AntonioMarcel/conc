@@ -42,4 +42,4 @@ n estudei
 1h conc
 ### 23-09
 1h30mg prog
-1h conc
+1h30m conc

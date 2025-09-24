@@ -33,5 +33,5 @@ Prog: parei a leitura do artigo no 2.4 Tipos de Inteligência Artificial
 Artigo: parei no 4.3 Categorização Conforme Análise de Conteúdo 
 Conc: Contratos: terminei res. e parei na q. 3 do caderno.
 23-09
-Conc: AFO (Res. Conceito , Princípios e Ciclo orç.)
+Conc: AFO (Res. Conceito v, Princípios v e Ciclo orç.: leitura 2️⃣ Discussão e Aprovação (gpt e pdf))
 
