@@ -16,20 +16,12 @@
   - Liquidação  
   - Pagamento  
 
-> **Observação**  
-> - Etapas = gênero | Estágios = espécie.  
-> - Fixação pode ser vista tanto como **etapa** quanto como **estágio** (divergência doutrinária).  
-
----
-
-## Etapa do Planejamento
+## Planejamento
 Inclui:  
 - Fixação da despesa (LOA)  
 - Descentralização de créditos orçamentários  
 - Programação orçamentária e financeira  
 - Licitação e contratação  
-
----
 
 ## Etapa da Execução
 
@@ -64,8 +56,6 @@ Inclui:
 - **Regra geral**: vedado pagamento antecipado.  
 - **Exceções**: hipóteses previstas no Dec. 93.872/86 (ex.: condições específicas de fornecimento).  
 
----
-
 ## Observações importantes
 - Despesa **extraorçamentária**: não passa por empenho, liquidação e pagamento (ex.: cauções, depósitos de terceiros).  
 - Estágios da execução são **rígidos e sequenciais**.  
@@ -73,8 +63,6 @@ Inclui:
   - Diferença entre obrigação **orçamentária (empenho)** e **financeira (liquidação)**.  
   - Possibilidade de despesa sem empenho prévio (extraorçamentária).  
   - Modalidades de empenho.  
-
----
 
 ## Resumo-chave para concurso
 - **Fixação → Empenho → Liquidação → Pagamento**  

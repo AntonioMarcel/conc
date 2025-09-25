@@ -36,4 +36,20 @@ Conc: Contratos: terminei res. e parei na q. 3 do caderno.
 Conc: AFO (Res. Conceito v, Princípios v e Ciclo orç.: leitura 2️⃣ Discussão e Aprovação (gpt e pdf))
 24-09
 Conc: AFO (PDF: Q. (FCC/TRT-5/Analista Judiciário/Área Administrativa) A previsão das receitas que serão destinadas para que)
-Ainda fazer Res
+25-09
+Conc: AFO Res Ciclo Orç feito 
+Execução Orç 
+
+
+(Cebraspe/STF/Analista Judiciário/Área Administrativa) Nos termos da CF, o ciclo orçamentário desdobrase em oito fases, cada uma com ritmo próprio, finalidade distinta e periodicidade definida.
+Segundo Sanches, a perspectiva ampliada decorre do próprio texto constitucional, desdobrando-se em oito
+fases, as quais são insuscetíveis de aglutinação, ou seja, cada uma possui seu próprio rito, finalidade e
+periodicidade.
+GABARITO: CERTO.
+
+(Cebraspe/DEPEN/Agente Penitenciário Nacional/Área 1) O ciclo orçamentário inicia-se com a formulação
+do planejamento plurianual pelo Poder Executivo e encerra-se com a avaliação da execução e do
+julgamento das contas.
+Questão decoreba! Pela abordagem do ciclo orçamentário ampliado, a primeira fase compreende a formulação
+do planejamento plurianual pelo Poder Executivo, e a última, a avaliação da execução e julgamento das contas.
+GABARITO: CERTO.
