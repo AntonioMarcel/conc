@@ -46,4 +46,10 @@ n estudei
 ### 24-09
 2h conc
 ### 25-09
-2h45m conc
+3h20m conc
+### 26-09
+2h conc
+
+### Semana 5
+### 29-09
+1h prog
