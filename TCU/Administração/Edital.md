@@ -3,8 +3,8 @@
 ## 1. Noções de Administração
 ### 1.1 Abordagens da Administração
 - Clássica  
-- Burocrática  
-- Sistêmica  
+- Burocrática v
+- Sistêmica v (**parei aqui!!! fazendo as questões do caderno**)
 
 ### 1.2 Evolução da Administração Pública no Brasil
 - Período pós-1930  
