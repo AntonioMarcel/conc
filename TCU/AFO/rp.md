@@ -9,3 +9,5 @@ Impacto financeiro
 - Pagamento de RP -> momento de efetiva saída de caixa: despesa extraorçamentária (p/ compensar o registro como receita extraorçamentária).
 >> Não impacta o PL: é fato permutativo. Ocorre a baixa da obrigação, mas também ocorre a saída de recurso (a VPD já ocorreu antes, no momento da liquidação). 
 - Cancelamento de RP > VPA (baixa de passivo).
+
+>>>> Leitura pdf: Débitos de tesouraria
