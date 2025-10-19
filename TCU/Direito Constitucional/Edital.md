@@ -1,12 +1,14 @@
 # Direito Constitucional
 
 1 Constituição da República Federativa do Brasil de 1988.  
-1.1 Conceito, classificações
+1.1 Conceito, classificações v
 1.2 Princípios Fundamentais v
 1.3 Emendas constitucionais
 
 2 Direitos e garantias fundamentais.  
-2.1 Direitos e deveres individuais e coletivos (**parei aqui!!! terminar o caderno e em seguida fazer caderno sobre os remédios constitucionais**)
+2.1 Direitos e deveres individuais e coletivos (**parei aqui!!! terminar o caderno sobre o art. 5º e em seguida fazer caderno sobre os remédios constitucionais**)
+**parei em q sobre sigilo bancário: ler teoria do pdf primeiro p/ continuar (a partir da p. 19 - art. 5o, X)**
+
 2.2 Direitos sociais, nacionalidade, cidadania, direitos políticos, partidos políticos.  
 
 3 Organização político-administrativa.  
