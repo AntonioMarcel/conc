@@ -6,8 +6,8 @@
 1.3 Emendas constitucionais
 
 2 Direitos e garantias fundamentais.  
-2.1 Direitos e deveres individuais e coletivos (**parei aqui!!! terminar o caderno sobre o art. 5º e em seguida fazer caderno sobre os remédios constitucionais**)
-**parei em q sobre sigilo bancário: ler teoria do pdf primeiro p/ continuar (a partir da p. 19 - art. 5o, X)**
+2.1 Direitos e deveres individuais e coletivos (**parei aqui!!! fazendos qs sobre remédios constitucionais em caderno do TCU**)
+**pedi gpt para fazer res sobre remédios constitucionais. lendo sobre mandado de segurança (li sobre habeas corpus e habeas data)**
 
 2.2 Direitos sociais, nacionalidade, cidadania, direitos políticos, partidos políticos.  
 
