@@ -4,10 +4,12 @@
 ### 1.1 Abordagens da Administração
 - Clássica  
 - Burocrática v
-- Sistêmica v (**parei aqui!!! fazendo as questões do caderno**)
+- Sistêmica v ()
+
+Resumo: https://chatgpt.com/g/g-R68hO3MOX-professor-de-administracao/c/690387ec-a80c-8333-94b0-7140d5f9fa61
 
 ### 1.2 Evolução da Administração Pública no Brasil
-- Período pós-1930  
+- Período pós-1930  (****parei aqui!!! montar os cadernos**)
 - Reformas administrativas  
 - Nova Gestão Pública (NGP)
 
