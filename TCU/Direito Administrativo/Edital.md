@@ -2,8 +2,9 @@
 
 ## 1. Noções de organização administrativa
 1.1 Centralização, descentralização, concentração e desconcentração.
-1.2 Administração direta, indireta e funcional.  (**parei aqui!!! estou nos exercícios de adm indireta**)
-1.3 Autarquias, fundações, empresas públicas e sociedades de economia mista. (**parei aqui!!! estou nos exercícios de adm indireta**)
+1.2 Administração direta, indireta e funcional.  
+1.3 Autarquias, fundações, empresas públicas e sociedades de economia mista.
+(**parei aqui!!! estou nos exercícios de desconc e descent**)
 
 ## 2. Ato administrativo  
 2.1 Conceito, requisitos, atributos, classificação e espécies.
