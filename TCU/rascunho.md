@@ -1,15 +1,61 @@
-Ana, estudiosa da Administração Pública indireta, questionou Pedro a respeito da compatibilidade dos conceitos de personalidade jurídica e órgão despersonalizado com o referencial de descentralização administrativa.
+
+Logotipo TEC Concursos
+P 	
+150%
+		 	1.0	1.5	2.0	2.5
+Questões
+Minhas pastas
+Filtrar questões
+Buscar questões
+Questões favoritas
+Discussão de questões
+Questões  Minhas pastas  Auditor de Controle Externo (TCs)/2023 - Tecnologia da Informação
+Administração Financeira e Orçamentária para Auditor
 
 
-Pedro respondeu, corretamente, que:
+
+02:27:35
+Tribunal de Contas do Estado do Paraná	
+14 de 1365 (14 R, 8 A e 6 E) 
+Matéria: AFO, Direito Financeiro e Contabilidade Pública
+Assunto:
+Normas Gerais de Direito Financeiro
+
+
+5
+
+
+
+ Texto  Vídeo  IA
+ FECHAR
+Foto do Professor
+Felipe Rios
+Data : 20/09/2017
+Classifique :
+    
+
+ FECHAR
+ #395772 CEBRASPE (CESPE) - 2016 - Auditor de Controle Externo (TCE PR)/Jurídica
+  
+Considerando o entendimento do Supremo Tribunal Federal sobre as normas gerais de direito financeiro e orçamento público, assinale a opção correta.
 
 A
-entes personificados e órgãos despersonalizados serão integrados, ou não, ao referido referencial, conforme haja, ou não, determinação legal nesse sentido;
+Não se admite o controle de constitucionalidade de medida provisória que autoriza a abertura de crédito extraordinário, pois os requisitos de relevância e urgência sujeitam-se à ampla discricionariedade do presidente da República.
 B
-o mencionado referencial é incompatível com a concepção de personalidade jurídica, sendo esta última própria do ente federativo dotado de autonomia política;
+Desde a edição da Emenda Constitucional n.º 62/2009, é inconstitucional a aplicação dos índices de remuneração da caderneta de poupança em correção monetária no regime de precatórios.
 C
-apenas os entes personalizados, não os órgãos despersonalizados, ainda que tenham maior liberdade decisória, se ajustam ao mencionado referencial;
+A vedação constitucional à vinculação da receita de impostos não se estende às taxas e contribuições instituídas por estados e municípios.
 D
-o mencionado referencial é indiferente à natureza das estruturas que venham a integrá-lo, sendo direcionado pelo atendimento a uma finalidade de interesse público e pela autonomia decisória;
+É constitucional norma estadual que atribui à assembleia legislativa a competência para aprovar acordos, convênios ou contratos que importem ônus não previsto na lei orçamentária.
 E
-o órgão despersonalizado somente passará a integrar o mencionado referencial caso sua criação tenha sido autorizada em lei.
+A LDO disporá sobre as alterações na legislação tributária, excluídos os decretos e as resoluções que tratem de isenções, anistias ou remissões.
+Parabéns, você selecionou: C, alternativa correta.
+Você acertou! Continue assim! Ver resolução
+       
+ Encontrou algum erro nesta questão? Fale conosco
+Fale conosco
+envelope 
+Facebook 
+Instagram 
+Youtube
+Quem SomosPreçosTermos de UsoPrivacidadeDúvidas FrequentesAjudaSeja um professorBlog
